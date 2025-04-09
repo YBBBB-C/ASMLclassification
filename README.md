@@ -1,5 +1,5 @@
 # ASMLclassification
-##if you are grader,pls ignore the readme, this is for personal project showing use.
+## If you are a grader, pls ignore the readme, this is for personal use.
 
 This analysis aimed to help the bank predict whether a customer would accept a personal loan
 by analysing various customer data points. The dataset contained multiple factors, such as
